@@ -16,7 +16,7 @@ const SideBar = () => {
       </div>
 
       <div className="payment-button">
-        <p>make payment</p>
+        <p>Make Payment</p>
       </div>
     </div>
   );
