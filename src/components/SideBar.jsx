@@ -10,9 +10,9 @@ const SideBar = () => {
       </div>
 
       <div>
-        <h3 className="amount">Paying</h3>
-        <p>NG 40,000 NGN</p>
-        <p>for 300 employees</p>
+        <p className="amount">Paying</p>
+        <p style={{fontSize:'30px',}}><strong>N 40,000 NGN</strong></p>
+        <p style={{ color: "#B9B9B9" }}>for 300 employees</p>
       </div>
 
       <div className="payment-button">

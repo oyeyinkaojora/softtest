@@ -6,7 +6,7 @@ const Billing = () => {
 
       <div className="container">
         <div className="card">
-          <div className="pill">HR</div>
+          <div className="pill-1">HR</div>
         </div>
         <div className="description">
           <div className="top-content">
@@ -27,7 +27,7 @@ const Billing = () => {
 
       <div className="container">
         <div className="card">
-          <div className="pill">Payroll</div>
+          <div className="pill-2">Payroll</div>
         </div>
         <div className="description">
           <div className="top-content">
@@ -49,7 +49,7 @@ const Billing = () => {
 
       <div className="container">
         <div className="card">
-          <div className="pill">Leave Management Module</div>
+          <div className="pill-3">Leave Management Module</div>
         </div>
         <div className="description">
           <div className="top-content">
@@ -62,7 +62,7 @@ const Billing = () => {
           <div className="down-content">
             <p>For as low as</p>
             <div className="price">
-              <strong>N 40,000 NGN</strong> per employee
+              <strong>N 30,000 NGN</strong> per employee
             </div>
           </div>
         </div>
